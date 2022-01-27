@@ -11,4 +11,8 @@ public class Test {
 		}
 		return f;
 	}
+	
+	int add(int a,int b) {
+		return a + b;
+	}
 }
